@@ -4,7 +4,7 @@ This code/implementation is edited version of [Anirudh Vemula](https://github.co
 
 ## Getting Started
 
-The dataset avaliable is normalized between -1 and 1. Also this version of code is only for GPU's.
+The dataset available is normalized between -1 and 1. Also this version of code is only for GPU's.
 
 
 ## Requirements
